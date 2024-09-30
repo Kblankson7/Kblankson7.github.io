@@ -16,4 +16,8 @@
 
 *Created a new GitHub account, creating a new repository, downloaded GitHub desktop, logged into it, clicked on the option "clone a repository from the internet," selected the new repository, and cloned the repository
 
-
+#About Me
+##My Interests
+##Websites I Reccomend 
+	- [Youtube](www.youtube.com) - I believe youtbe is the ultimate media platform. Informational videos, educational videos, and recreational videos. It's got the whole package!
+	- [Netflix](www.Netflix.com) - As the saying goes 'Netflix and Chill,' it's one of my favorite platforms to stream TV shows I enjoy to relax. 
